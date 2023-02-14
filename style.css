@@ -203,6 +203,6 @@ body {
   position: relative;
   justify-content: center;
   display: flex;
-  bottom: 60%;
+  bottom: 55%;
   /* bring your own prefixes */
 }
