@@ -2,7 +2,7 @@ body {
   background: linear-gradient(45deg, #fbda61, #ff5acd);
   background-size: 400% 400%;
   animation: gradient 10s ease infinite;
-  height: 80vh;
+  height: 100vh;
 }
 
 @keyframes gradient {
@@ -52,7 +52,7 @@ body {
   height: 50vh;
   border-radius: 20%;
   display: block;
-  top: 25%;
+  top: 25%; 
 }
 
 .carousel-cell {
@@ -142,7 +142,6 @@ body {
 }
 
 .card {
-  size-adjust: 50%;
   width: 300px;
   height: 50px;
   padding: 0.5rem;
@@ -205,3 +204,4 @@ body {
   bottom: 315px;
   /* bring your own prefixes */
 }
+
