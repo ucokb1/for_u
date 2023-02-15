@@ -36,12 +36,12 @@ const isiContent = [
   "You bring out the best in me",
   "I am lucky to knonw u",
   "You have a caring heart",
-  "I love your sense of music",
+  "I love ur sense of music",
   "You are everything",
   "I appreciate for your help",
   "You are simply amazing",
   "I can't imagine my life without you",
-  "I Like u Yasmin ♥"
+  "For all the things Happend in ur life, i wish u get happier ♥"
 ];
 
 for (let i = 0; i < carouselCells.length; i++) {
