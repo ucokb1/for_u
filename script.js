@@ -15,7 +15,7 @@ var flkty = new Flickity('.carousel', {
 const carouselCells = document.querySelectorAll(".carousel-cell");
 
 const isiContent = [
-  "Dari pengagum rahasia kamu\n♥",
+  "Dari Guntur untuk kamu\n♥",
   "I liked ur eyes",
   "I like the ways u look at my eyes when we hv a conversation",
   "I appreciate ur kindness",
